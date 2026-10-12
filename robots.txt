@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cesarlm59-commits.github.io/calculafacil-mx-/sitemap.xml
